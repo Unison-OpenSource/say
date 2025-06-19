@@ -16,4 +16,4 @@
 Just fire up your terminal and run:  
 
 ```sh
-curl -L janeesh.me
+curl -L janeeshsays.vercel.app
